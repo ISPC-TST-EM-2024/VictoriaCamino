@@ -1,11 +1,9 @@
-# ![alt text](./recursos/logo.png)
+# ![alt text](../recursos/logo.png)
 ### Profesor: Vera Gonzalo
 ### Alumna: Victoria Camino
 
 ## Presentacion de la estructura del monorepositorio  
-TP1. Fundamentos de circuitos electricos - 14/4/2024
-
-## Resumen de repositorio actual TP2
+TP2. Simulación Electrónica
 
 ## Objetivos
 • Comprender los fundamentos eléctricos y electrónicos básicos en circuitos.
