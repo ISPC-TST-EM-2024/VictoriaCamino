@@ -11,4 +11,6 @@ B→ Investigacion por parte del alumno.
 
 C→ Prototipos de los circuitos.
 
+D→ Presentacion de lo trabajado
+ 
 Recursos→ Recusos de imagenes utilizadas.
