@@ -12,4 +12,4 @@ B→ Investigacion por parte del alumno.
 
 C→ Prototipos de los circuitos.
 
-Recursos→ Recusos de imagenes utilizadas.
+Recursos→ Imagenes utilizadas.
