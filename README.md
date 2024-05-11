@@ -3,5 +3,8 @@
 ### Alumna: Victoria Camino
 
 ## Presentacion de la estructura del monorepositorio  
-TP1. Fundamentos de circuitos electricos - 14/4/2024
-TP2. Simulación Electrónica - 21/4/2024
+TP1. Fundamentos de circuitos electricos - 14/4/2024  
+
+TP2. Simulación Electrónica - 21/4/2024  
+
+TP3. CLC - 4/5/2024
